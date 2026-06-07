@@ -48,6 +48,11 @@ CodeAlpha_FAQChatbot
 │
 ├── models
 │   └── similarity_model.py
+│
+├── screenshots
+│   ├── home_page.png
+│   ├── user_question.png
+│   └── chatbot_answer.png
 ```
 
 ## Sample Questions
